@@ -67,7 +67,7 @@ const InputBox = styled.div`
 const RequiredDiv = styled.div`
  font-size: 14px;
  position: relative;
- margin-right: 219px;
+ margin-right: 166px;
  color: red;
 `
 
