@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;   
+}
+input {
+    background: transparent;
+}
+textarea:focus, input:focus{
+  outline: none;
+}
