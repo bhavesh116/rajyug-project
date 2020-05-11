@@ -89,7 +89,7 @@ const PrevNext = styled.div`
 `
 
 const ContentWrapper = styled.div`
- height: 95%;
+ height: 93%;
  width: 100%;
  display: flex;
  padding: 40px;
