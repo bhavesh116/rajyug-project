@@ -80,7 +80,7 @@ const InvaliDiv = styled.div`
  color: ${({theme}) => theme.white};
  align-items: center;
  justify-content: center;
- bottom: 144px;
+ bottom: 89px;
  flex-direction: column;
  position: relative;
 `
