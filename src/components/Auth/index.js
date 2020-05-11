@@ -38,6 +38,7 @@ const StyledInput = styled.input`
  display: flex;
  margin-bottom: 10px;
  align-items: center;
+ color: ${({theme}) => theme.orangeRed};
  padding-left: 10px;
 `
 
