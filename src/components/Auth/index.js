@@ -21,8 +21,8 @@ const Header = styled.div`
 `
 
 const AuthDiv = styled.div`
- height: 430px;
- width: 350px;
+ height: 390px;
+ width: 330px;
  border-radius: 5px;
  border: 1px solid ${({theme}) => theme.primary};
  display: flex;
